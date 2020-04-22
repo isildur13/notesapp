@@ -1,3 +1,4 @@
 #include<stdio.h>
 
-int menu();
+
+int choice;
