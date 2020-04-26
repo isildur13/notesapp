@@ -4,6 +4,5 @@
 
 int main (void){
 	menu();	
-	printf("Your choice is %d\n",choice);
 	return 0;
 }
